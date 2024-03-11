@@ -40,7 +40,7 @@ The proportions are stored in a 3D matrix (``.mat``) for each experiment.  The h
 
 
 # Codes
-To be able to run the metric, you must geenrate the renders (``render_stimuli.py``), compute the metric values (``compute_metric_values.py``), and then run our metric on the metric values (``run_metric.py``).
+To be able to run the metric, you must generate the renders (``render_stimuli.py``), compute the metric values (``compute_metric_values.py``), and then run our metric on the metric values (``run_metric.py``).
 
 ## ``render_stimuli.py``
 Requires the crops to composite in the background.
